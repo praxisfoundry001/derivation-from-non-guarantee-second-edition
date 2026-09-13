@@ -2,7 +2,7 @@
 
 ## Second Edition
 
-**Current edition DOI:** [SECOND EDITION DOI]
+**Current edition DOI:** https://doi.org/10.5281/zenodo.22736388
 
 This repository contains the current Second Edition of **¯\\(ツ)/¯ — A Derivation from Non-Guarantee** together with the frozen Lean 4 machine-audit source accompanying this edition.
 
@@ -158,4 +158,4 @@ All substantive arguments, theoretical claims, formalization choices, scope deci
 
 **¯\\(ツ)/¯ — A Derivation from Non-Guarantee, Second Edition.**
 
-DOI: **[SECOND EDITION DOI]**
+DOI: **https://doi.org/10.5281/zenodo.22736388**
